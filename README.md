@@ -1,6 +1,6 @@
 # Executive Summary:
 
-[](https://img.shields.io/static/v1?label=version&message=0.0.1&color=green)
+![](https://badgen.net/badge/Version/v0.0.1/green)
 
 The social media as a whole is worth $153 billion worldwide. It is expected to grow to $252 billion by 2026. Many social media platforms exist today. All trying to achieve the same thing. Gaining user’s attention. Why? So that they can manipulate users. So that they can manipulate change.
 
