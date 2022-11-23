@@ -1,45 +1,47 @@
+![](https://badgen.net/badge/Version/v0.0.2/green)
+
+[v 0.0.1](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.1.md)
+[v 0.0.2](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.2.md)
+
 # Executive Summary:
 
-![](https://badgen.net/badge/Version/v0.0.1/green)
+![](https://badgen.net/badge/Version/v0.0.2/green)
 
-The social media as a whole is worth $153 billion worldwide. It is expected to grow to $252 billion by 2026. Many social media platforms exist today. All trying to achieve the same thing. Gaining user’s attention. Why? So that they can manipulate users. So that they can manipulate change.
+What is the use of money today?
+It's the middleman in the transfer of value. It's the tool that helps us exchange value. In the history of humanity, from the oldest civilizations we can track, various technologies of money existed to help us exchange value. The most common ones are gold, silver, and paper money. The most recent one is digital money.
+At the end of the day however humans want to trade value. They have certain goals, certain experiences they want to have. But we need money to do that. We need money to live our dreams, to live our goals.
+You can take anything that happens to for example. 
+Why does someone go to work?
+So that they can earn money to maybe buy a house, to buy a car, to go on a vacation, to buy a new phone, to feel new experiences. They are transfering their value to the company. The company in turns pays them how much they feel you are worth. You then use that money to exchange it for someone else's value creation.
 
-The movie Social Dilemma points out real evidences, tactics used by these companies in trying to manipulate behaviour. 
+The following diagram shows us the evolution of money.
+![Evolution of the technology of money](https://github.com/AireshBhat/TransferOfValue/blob/main/assets/TransferOfValue.png)
 
-*So what’s the problem?*
-That’s how the documentary actually starts. Trying to figure out what is the problem.
+Bitcoin is the latest evolution in the technology of money. It showed us that everyone who uses this protocol can reach consensus on who owns what. There is no need of any centralised authority to verify the same. This removes the unnecessary complications that comes with trust and centralised institutions altogether.
+This technological innovation showed us that we can all reach consensus about some information. This is the technology that we will use to build this protocol.
 
-The problem is centralisation. It’s so deep rooted in our lives, that it’s a part of our lives. It’s a part of our everyday interactions. It’s a part of everything we do. The way we see the world, the way we experience the world.
+The core principle applied in this protocol is as follows:
+Between any interaction, the users will measure if they feel the interaction added value to them or not.
 
-Every problem in today’s world will lead back to a break of a promise(when a master breaks . Which is essentially what breaks trust. Blockchain is the technology that can help us gain back this trust. To gain back the trust between two people on the internet. To fix social bonds. To make connections meaningful.
+Whenever any interaction happens, the users who are providing the value can stake how many of their tokens they think they deserve to add.
 
-There’s a lot of problems present in today’s social media. But the solution to all of them is building back the trust. It’s about reaching consensus on what is the truth and what isn’t programatically. Blockchain lets us encode social media with trust. It’s much more easier to trust users when the tools used to build the platform is based on “trust”.
+There are many type of interactions. Let's start with the most basic of types of interaction. Alice provides a service that Bob wants.
 
-The solution is to build incentive mechanisms to help find the truth faster. That would mean making it easier for everyone to tell their stories. Making it easier for everyone to tell others what helped them and what didn’t. These rules can be encoded in the token. It’s up to the users to opt into this network. By using this protocol, users may find that they will be able to navigate life much easily.
+![Basic Interaction](https://github.com/AireshBhat/BasicInteraction/blob/main/assets/BasicInteraction.png)
 
-The underlying code will all be open sourced. This would allow anyone to read and understand the underlying governing dynamics and how the ecosystem plays out.
+Once Alice provides the service, Bob can either state whether the service added value to him or not. If yes, we can conclude that Alice's value increases. If not, it decreases.
 
-This protocol can be used by users who want to make more meaningful connections in life. Be it a colleague, be it friends, be it your next relationship.
+Let the total value of knowledge by 10000.
+Alice: 700
+Bob: 300
 
-There will also be a wallet for each user. The wallet will be the user’s online identity. The user can maintain as many identities as they want. It’s however more favourable to maintain one as all the reputation will be earned by only one wallet at a time.
-A wallet will not only store tokens but will also be a tool that the user can use to help guide them in life. What experiences to achieve and what goals to accomplish. At the end of the day, each wallet will be like a user’s profile. It’s a copy of them but digital. It’s a true identity of them on the internet. But this time, it’s in their control. All the tools used to build this wallet is again built on blockchain which encodes trust directly into the platform.
+All users will have their tokens in circulation. 
 
-Each user will have their own token. They can use the token any way they see fit. Their token will however be directly connected to their value. This is because each token is backed by the users values and beliefs. This can be inferred from either the tokens they in turn hold/what they claim to be through their profile. The tokens value will be calculated using the CHIT token.
+Tokens in hand:
+Alice: 10000
+Bob: 10000
 
-CHIT token is the main currency used by the platform. CHIT is Sanskrit for Consciousness. A token should be backed by a strong belief. For CHIT token, consciousness is the belief. The main goal of this token is to help expand human consciousness.
+Therefore each Alice token is worth 0.07 and each Bob token is worth 0.03.
 
-Each user has a story to tell. Each user’s story is worth listening to. In a network that is built via a protocol backed by a very strong belief, we can help build a world that’s helpful by nature. We can help build a world that values happiness over money. We can help build a world that enjoys nature and its experiences.
-
-We have already seen the benefits of social media. The main utility being the ability to create and maintain social bonds. It’s the connections, meaningful relationships that matter. Social media is a tool that helps us do this. Using this protocol, we can figure out the best way to do this together. 
-
-## The TOV Protocol as an Incentive Machine
-The goal of the protocol is to incentivise content that provides good value to the user. Be it humour or be it something productive or be it both. Content creation will be directly connected with the profile. A user can use a certain profile to understand how the mechanics of a system works. They can then try on a more authentic profile to help them grow. The protocol incentivises growth. Maintaining the right tokens should be the responsibility of the user. The protocol will work such that having tokens the follow values benefiting happiness/helpfulness will be rewarded and those that don’t will have their value decreased.
-
-Each post will be a poll. People will respond whether they liked it or not. If the majority of them liked it and if you liked it, your value and everyones value will increase. If you felt it helped you but if the poll ends up negative, you’ll be incentivised to think why.
-
-The CHIT token incentivizes users to be honest to their values. This will flow into every aspect of their lives.
-
-The CHIT token incentivezes users to be themselves. The more unique they are, the better the posts. 
-
-TOV ecosystem
-The TOV ecosystem aims to attain everyone as a user. The whole point of blockchain is that its peer to peer. We won’t be truly peer to peer if everyone is not participating in a protocol. The end goal is to find a protocol that we all agree to. A protocol we all automatically reach consensus to. These are the first few milestones.
+If Alice provides a service for 10A tokens, Bob will need to exchange 23B of his tokens to get the service.
+Alice stakes 10A tokens into the service and Bob stakes 23B tokens into the service.
