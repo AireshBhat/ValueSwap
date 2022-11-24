@@ -25,6 +25,19 @@ Between any interaction, the users will measure if they feel the interaction add
 
 Whenever any interaction happens, the users who are providing the value can stake how many of their tokens they think they deserve to add.
 
+Everyone uses a protocol for every aspect in their lives. Their total value will be the value they created plus the values of all the protocols they use in their daily lives. The protocols they believe in. It's the job of the protocol to sell to their users why they should use it.
+
+If a user uses your token, it means they believe in your protocol, they believe in you.
+
+Collecting the right protocols means you are increasing your value the right way. Protocols are a good way to incentivise a user to do something. You can have different protocols created for every aspect in life. Token distribution will be done to those users who follow the protocol. Checks will be written in smart contracts. This way we can ensure a user is following the protocol or not.
+
+You can circulate your tokens in things that you believe in. For example, for content creators, they can incentivize people in collecting their tokens by selling themselves and their ideas. If I believe that someone is doing something that adds value, then I am incentivised to collect their tokens as my value increases too.
+
+### How do we assign a number to this value?
+The more the people that collect your tokens, the more your value increases. 
+
+## Interactions
+
 There are many type of interactions. Let's start with the most basic of types of interaction. Alice provides a service that Bob wants.
 
 ![Basic Interaction](https://github.com/AireshBhat/BasicInteraction/blob/main/assets/BasicInteraction.png)
