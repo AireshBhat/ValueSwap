@@ -25,7 +25,7 @@ Between any interaction, the users will measure if they feel the interaction add
 
 Whenever any interaction happens, the users who are providing the value can stake how many of their tokens they think they deserve to add.
 
-Everyone uses a protocol for every aspect in their lives. Their total value will be the value they created plus the values of all the protocols they use in their daily lives. The protocols they believe in. It's the job of the protocol to sell to their users why they should use it.
+Everyone uses a protocol for every aspect in their lives. Their total value will be the value they created plus the values of all the protocols tokens they have collected in their daily lives. The protocols they believe in. It's the job of the protocol to sell to their users why they should use it.
 
 If a user uses your token, it means they believe in your protocol, they believe in you.
 
