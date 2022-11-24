@@ -40,7 +40,7 @@ The more the people that collect your tokens, the more your value increases.
 
 There are many type of interactions. Let's start with the most basic of types of interaction. Alice provides a service that Bob wants.
 
-![Basic Interaction](https://github.com/AireshBhat/BasicInteraction/blob/main/assets/BasicInteraction.png)
+![Basic Interaction](https://github.com/AireshBhat/TransferOfValue/blob/main/assets/BasicInteraction.png)
 
 Once Alice provides the service, Bob can either state whether the service added value to him or not. If yes, we can conclude that Alice's value increases. If not, it decreases.
 
