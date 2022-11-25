@@ -1,8 +1,9 @@
 # Executive Summary:
 
-[v 0.0.1](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.1.md)
-[v 0.0.2](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.2.md)
-[v 0.0.3](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.3.md)
+## Versions
+* [v 0.0.1](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.1.md)
+* [v 0.0.2](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.2.md)
+* [v 0.0.3](https://github.com/AireshBhat/TransferOfValue/blob/main/Versions/v0.0.3.md)
 
 ![](https://badgen.net/badge/Version/v0.0.3/green)
 
