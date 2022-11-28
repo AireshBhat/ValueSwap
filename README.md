@@ -1,4 +1,5 @@
 # Still under construction... 👷
+Check out my [blog](https://mirror.xyz/0x493EDA97486EC88C9C79404476B3dB71699a4040)
 
 # Executive Summary:
 
