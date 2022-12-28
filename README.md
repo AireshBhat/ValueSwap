@@ -13,7 +13,7 @@ Check out my [blog](https://mirror.xyz/0x493EDA97486EC88C9C79404476B3dB71699a404
 From the oldest civilization of humanity till date, we humans have used various technologies to exchange value.
 
 The following diagram shows us the evolution of money as a technology.
-![Evolution of the technology of money](./assets/Money_Tech.png)
+![Evolution of the technology of money](https://user-images.githubusercontent.com/23222537/209832134-75638277-a4d6-4b8d-8e90-0a01deb21965.png)
 
 What are Alice and Bob trying to do here?
 Bob wants some "value" Alice can provide. For this value, Alice is given a token to keep track that she provided value. This token is supposed to be a proof of value transfer. It's also something that Alice should be able to use tomorrow for obtaining "value" provided by others.
@@ -30,7 +30,7 @@ The protocol keeps track of a very simple value exchange. It incentivises users 
 
 In the example above, the protocol incentivizes Alice to record the transaction by sending her 1 CHET token when her token is minted.
 
-![Bob minting Alice's token](./assets/Minting_Token.png)
+![Bob minting Alice's token](https://user-images.githubusercontent.com/23222537/209832153-56e4d37a-81bf-42b9-b0cd-888a340b3823.png)
 
 At the end of the exchange, Bob's wallet will have 1 "Alice" token and Alice will have 1 CHET token.
 
