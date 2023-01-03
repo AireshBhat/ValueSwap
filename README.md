@@ -35,13 +35,13 @@ Bob will broadcast a transaction to all the nodes. The information in the transa
 
 The DID proof will be verified by all the nodes and will be added as one transaction. Similarly bunch of transactions put together will form a block. Out of all the transactions, one user whose token was minted will be selected in random and that user will get to add the block in exchange for a CHIT token. Let's say for the sake of this example Alice was selected. She will be rewarded with 1 CHET token as a reward for providing value.
 
-At the end of the exchange, Bob's wallet will have 1 "Alice" token and Alice will have 1 CHIT token.
+At the end of the exchange, Bob's wallet will have 1 "A" token and Alice will have 1 "CHIT" token.
 
 The transaction will record the proof of value exchange. Right now it's a DID but in the future it can be anything from a DID, transaction, IPFS link, NFT, anything that is immutable.
 
 ## Rules and the beliefs behind the protocol
 1. A users value is calculated as the total number of tokens(which have crossed the nakamoto coefficient threshold). If a token crosses the nakamoto coefficient, it means that the user behind the token has provided some sort of value to majority of the wallet holders.
-2. A token crosses the nakamoto coefficient threshold when it is collected by x% of the wallets being used. For starting off we can keep a thresholf of 90%. Moving forward we can have many more thresholds.
-3. A token can be collected as many times. However the number of tokens don't matter. Only whether the token was minted or not.
+2. A token crosses the nakamoto coefficient threshold when it is collected by x% of the wallets being used. For starting off we can keep a threshold of 90%. Moving forward we can have many more thresholds.
+3. A token can be collected as many times. However the number of tokens don't matter. Only whether the token was minted by a wallet or not.
 4. Each user is incentivised to operate only one wallet. In the beginning, until each wallet is backed by biometric verification, it is not possible to merge the value one wallet has collected with another.
 5. A user cannot send their own token to any other wallet. Only an external address can mint a token.
